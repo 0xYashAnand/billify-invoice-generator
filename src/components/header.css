@@ -1,0 +1,32 @@
+@media print {
+     .not-Print {
+        display: none;
+    }
+}
+
+.btn {
+    margin: 6px;
+    align-items: center;
+    text-align: center;
+    font-family: Roboto, sans-serif;
+    font-weight: 100;
+    font-size: 18px;
+    color: #ffffff;
+    background-color: #3e8eff;
+    border: NONE;
+    padding: 10px 30px;    
+    overflow: hidden;    
+    border-radius: 6px;
+    cursor: pointer;
+}
+
+.btn:hover {    
+    transition: 500ms;
+    opacity: 25;
+    background-color: #fff;
+    color: #0066cc;
+    border: none;
+    box-shadow: rgba(0, 0, 0, 0.15) 0px 2px 8px;
+    
+}
+
