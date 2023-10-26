@@ -6,7 +6,7 @@
 Invoice Generator is a React-based web application that allows users to create invoices. 
 This application provides a simple and intuitive interface for generating invoices with options for preview, editing, and downloading the final invoice.
 
-- [Live Website](https://invoice-by-yash.netlify.app/)
+- [Live Website](https://billify-invoice-generator.netlify.app/)
 
 ## Usage
 
