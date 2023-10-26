@@ -1,7 +1,7 @@
 
  Invoice Generator built using React.  
 
-# Invoice Generator
+# Billify - Invoice Generator
 
 Invoice Generator is a React-based web application that allows users to create invoices. 
 This application provides a simple and intuitive interface for generating invoices with options for preview, editing, and downloading the final invoice.
